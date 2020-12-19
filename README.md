@@ -14,7 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![hippo](ezgif.com-gif-maker.gif)
-![ff](ezgif.com-gif-maker_1.gif)
+![hippo](ezgif.com-gif-maker.gif) ![hippo](ezgif.com-gif-maker_1.gif)
 
 -[APk Drive Link](https://drive.google.com/drive/folders/1u757YLxzpRkXCyoA56mJTW4vIR4Cxgs6?usp=sharing)
